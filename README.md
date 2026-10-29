@@ -36,7 +36,8 @@ The findings are presented in the Excel workbook and its visualizations.
 
 ## Project Preview
 
-![Excel Dashboard](screenshots/DASHBOARD.png)
+![Excel Dashboard]
+<img width="771" height="468" alt="DASHBOARD" src="https://github.com/user-attachments/assets/1a527cf4-7905-42ec-8619-70d3a7ccca63" />
 
 ## Conclusion
 This project improved my Excel data analysis skills and my ability to communicate insights for better decision-making.
